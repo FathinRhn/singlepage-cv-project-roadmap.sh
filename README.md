@@ -13,4 +13,4 @@ This repository is the result of my work in working on the Single Page CV Projec
 ✅A favicon linked in the head section.
 
 This project based on :
-[Single-Page CV](https://roadmap.sh/projects/single-page-cv)
+[Single-Page CV](https://roadmap.sh/projects/basic-html-website)
